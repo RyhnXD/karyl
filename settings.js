@@ -29,11 +29,11 @@
   global.botname = 'karyl' // Ganti Jadi Nama Botmu
   global.packname = 'karyl bot' // Sticker Weem
   global.author = 'Han' // Sticker Weem
-  global.webme = 'https://chat.whatsapp.com/E8LJ85LRwfCFb92jev7Omn' // Ganti Sama Web Mu
-  global.linkgroup = 'https://chat.whatsapp.com/E8LJ85LRwfCFb92jev7Omn' // Ganti Sama Link Gc Mu
+  global.webme = 'https://chat.whatsapp.com/LpR3POR9ap16SUR6IuZAxb' // Ganti Sama Web Mu
+  global.linkgroup = 'https://chat.whatsapp.com/LpR3POR9ap16SUR6IuZAxb' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
-  global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw' // Ganti Sama Link Yt Mu
-  global.github = 'https://github.com/riychdwayne' // Ganti Sama Link Github Mu
+  global.youtube = 'https://chat.whatsapp.com/LpR3POR9ap16SUR6IuZAxb' // Ganti Sama Link Yt Mu
+  global.github = 'https://chat.whatsapp.com/LpR3POR9ap16SUR6IuZAxb' // Ganti Sama Link Github Mu
   global.instagram = 'https://instagram.com/riychdwayne' // Ganti Sama Link Ig mu
 
   // Background Setiap Menu
